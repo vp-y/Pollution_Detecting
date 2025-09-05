@@ -1,5 +1,5 @@
 ``` pollution-vehicle-id/
- data/                         # Sample test images/videos
+ data/                     # Sample test images/videos
  frames/                   # Extracted video frames
  videos/                   # Raw surveillance footage
  models/                   # YOLOv8 and OCR checkpoints
