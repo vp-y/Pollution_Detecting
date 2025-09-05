@@ -1,0 +1,7 @@
+ ultralytics
+ easyocr
+ opencv-python
+ sqlalchemy
+ pymysql
+ email-validator
+ python-dotenv
